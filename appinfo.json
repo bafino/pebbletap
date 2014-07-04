@@ -1,0 +1,18 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pawel Drewniak",
+    "longName": "taptest",
+    "resources": {
+        "media": []
+    },
+    "shortName": "taptest",
+    "uuid": "1ad47ed5-b472-4169-8453-4c6061cb5f25",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
